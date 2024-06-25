@@ -1,0 +1,27 @@
+/**
+ * @name Alone in the night
+ * @author httpshotmaker
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/51676-odni-v-nochi.html
+ * @authorLink https://vsthemes.org/user/httpshotmaker/
+ * @authorId 23950
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 5,4,4;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.3;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 21,66,109;
+    --background: url("https://vsthemes.org/uploads/posts/2022-05/1652196195_1626919729_18-kartinkin-com-p-dvoe-anime-noch-anime-krasivo-23.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}

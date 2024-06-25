@@ -1,0 +1,27 @@
+/**
+ * @name Kakashi Hatake - Naruto 4
+ * @author TereruNaYo
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/36360-kakashi-hatake-naruto-4.html
+ * @authorLink https://vsthemes.org/user/TereruNaYo/
+ * @authorId 65141
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.35;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0.2;
+    --accentcolor: 36,160,238;
+    --background: url("https://vsthemes.org/uploads/posts/2021-08/1627839962_106924.jpg");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}

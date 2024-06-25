@@ -1,0 +1,54 @@
+/**
+* @name Jujutsu Kaisen Showdown
+* @version 9.0.1 
+* @description Anime theme
+* @author Seketsu
+* @Discord username Where u can contact me: Seketsu
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--background-image: url('https://cdn.discordapp.com/attachments/861243065863634954/1237800670547939359/1345576.jpeg?ex=663cf735&is=663ba5b5&hm=4f474e6acced9d8ab30afe723a7806f7d3a308b9c3e6a6eb0ab836dda3e789ae&');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center center;
+  --popout-modal-image: url('https://cdn.discordapp.com/attachments/1235639034257080471/1238088159531761674/cfd2b28d719c0dd4960f9b82dd48a8c2.jpg?ex=663e02f3&is=663cb173&hm=530d02b87a43a85d7f74a9b9581ccb9036ab97dc7d63f05b7226d1f9f0340794&');
+  --popout-modal-blur: 0px;
+  --popout-modal-brigthness: var(--right-brightness);
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/1235639034257080471/1238088136584859688/5b6004dcce35d6ba8757aa73e1874c12.jpg?ex=663e02ee&is=663cb16e&hm=679e256a9d02cffddc5269dee8592f0bafe7755149c1fe3a54fb882a9626d2d0&');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.7;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.7;
+  --gradient-primary: 148,187,233,100;
+  --gradient-secondary: 2,0,36,100;
+  --scrollbar-colour: rgba(49, 255, 197, 0.973);
+  --link-colour: #46c5ff;
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: 'Arial';
+  --window-padding: 5px;
+  --window-roundness: 20px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 42px;
+  --HSL-server-spacing: 15px;
+  --rs-small-spacing: 1px;
+  --rs-large-spacing: 3px;
+  --rs-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+  --text-normal: rgba(0, 252, 201, 0.868); /* color of default discord text */
+}

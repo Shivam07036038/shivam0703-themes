@@ -1,0 +1,54 @@
+/**
+* @name ATOMIC HEART
+* @version 9.0.1 
+* @description AH Theme
+* @author Andreyka Gamer
+* @Discord Server Where u can contact me:https://discord.gg/JUN8cyBZNE
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--background-image: url('https://mobimg.b-cdn.net/v3/fetch/34/342cad0b692fff46e8e9d5e7b44fde2d.jpeg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center center;
+  --popout-modal-image: url('https://i.pinimg.com/736x/e4/08/1b/e4081be5c8fdc997670e09dcd1aa3fe2.jpg');
+  --popout-modal-blur: 0px;
+  --popout-modal-brigthness: var(--right-brightness);
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8074b88-7839-4cb6-8ee4-6920d3405aac/deub19r-10ea84ac-cc48-4d21-8987-3180db3f3fd9.jpg/v1/fill/w_800,h_1000,q_70,strp/toji_fushiguro_by_jeffxart_deub19r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwMCIsInBhdGgiOiJcL2ZcL2Q4MDc0Yjg4LTc4MzktNGNiNi04ZWU0LTY5MjBkMzQwNWFhY1wvZGV1YjE5ci0xMGVhODRhYy1jYzQ4LTRkMjEtODk4Ny0zMTgwZGIzZjNmZDkuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rkqUGLkHnpsdtVY-7XMAPIHrBJJsP_5zCC9DpvHncEQ');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.7;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.7;
+  --gradient-primary: 148,187,233,100;
+  --gradient-secondary: 2,0,36,100;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --link-colour: #46c5ff;
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: 'Arial';
+  --window-padding: 5px;
+  --window-roundness: 20px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 42px;
+  --HSL-server-spacing: 15px;
+  --rs-small-spacing: 1px;
+  --rs-large-spacing: 3px;
+  --rs-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+  --text-normal: rgba(255, 255, 255); /* color of default discord text */
+  }
